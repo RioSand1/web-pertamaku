@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(187, 211, 187);
+    align-items: center;
+    display: flexbox;
+    text-align: center;
+}
+
+.akun-1 {
+    background-color: red;
+}
+.akun-2 {
+    background-color: rgb(196, 10, 149);
+}
+    
+button {
+    background-color: rgb(255, 238, 0);
+    color:  rgb(0, 0, 0);
+}
+
+a {
+    color: rgb(255, 0, 0);
+}
+
+
+ul {
+    list-style: none;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#la {
+    margin-top: 40px;
+}
+
+
